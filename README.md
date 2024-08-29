@@ -1,10 +1,10 @@
-# AtliQ-Finance-Analytics
+# AtliQ-Finance-Analytics-Excel
 
 ## Project Objective
 
-  **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/KunalGarodi/Sales-Analytics-Excel/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/KunalGarodi/Sales-Analytics-Excel/blob/main/P%26L%20Statement%20by%20Fiscal%20Months.pdf)_ 
+  **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/KunalGarodi/AtliQ-Finance-Analytics-Report/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/KunalGarodi/AtliQ-Finance-Analytics-Report/blob/main/P%26L%20Statement%20by%20Fiscal%20Months.pdf)_ 
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/KunalGarodi/Sales-Analytics-Excel/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
+   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/KunalGarodi/AtliQ-Finance-Analytics-Report/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
 
 ## Purpose of Finance Analytics
 
