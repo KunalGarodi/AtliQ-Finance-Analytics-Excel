@@ -1,4 +1,4 @@
-# AtliQ-Finance-Analytics-Excel
+# AtliQ-Financial-Analytics-Excel
 
 ## Project Objective
 
