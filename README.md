@@ -6,6 +6,8 @@
 
    **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/KunalGarodi/AtliQ-Finance-Analytics-Report/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
 
+   **3.** Generate Gross Margin percenrtage by [Quarters](https://github.com/KunalGarodi/AtliQ-Finance-Analytics-Excel/blob/main/Gross%20Margin%20%25%20by%20Quarters%20(sub_zone).pdf) (sub_zone) report.
+
 ## Purpose of Finance Analytics
 
 Evaluate financial performance, support decision-making, and facilitate communication with stakeholders.
