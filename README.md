@@ -22,6 +22,14 @@ Evaluate financial performance, support decision-making, and facilitate communic
 - Align financial planning with strategic goals.
 - Instill confidence in the organization's financial outlook.
 
+## 📝 𝗥𝗲𝗰𝗼𝗺𝗺𝗲𝗻𝗱𝗮𝘁𝗶𝗼𝗻𝘀/𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀:
+
+- 📈 𝗙𝗼𝗰𝘂𝘀 𝗼𝗻 𝗛𝗶𝗴𝗵-𝗚𝗿𝗼𝘄𝘁𝗵 𝗠𝗮𝗿𝗸𝗲𝘁𝘀: The financial analysis highlighted certain markets with consistent revenue growth. Expanding operations in these regions could further improve profitability.
+
+- 💰 𝗢𝗽𝘁𝗶𝗺𝗶𝘇𝗲 𝗖𝗼𝘀𝘁𝘀: Sub-zone GM% analysis revealed opportunities to reduce costs and increase margins, especially in underperforming regions.
+
+- 📊 𝗘𝗻𝗵𝗮𝗻𝗰𝗲 𝗙𝗶𝗻𝗮𝗻𝗰𝗶𝗮𝗹 𝗙𝗼𝗿𝗲𝗰𝗮𝘀𝘁𝗶𝗻𝗴: Implementing advanced forecasting models based on historical data can provide better financial visibility and improve decision-making.
+
 ## Technical & Soft Skills
 
 ### Technical Skills
